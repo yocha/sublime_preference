@@ -1,0 +1,11 @@
+{  
+	"font_size": 14,
+	"tab_size": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"translate_tabs_to_spaces": true,
+  "bold_folder_labels": true,
+  "rulers": [70,80],
+	"ignored_packages": [""],
+  "folder_exclude_patterns": [".git"]
+}
